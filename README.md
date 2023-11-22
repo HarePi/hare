@@ -34,7 +34,6 @@ sudo make install
 step5 hello
 ```
 cd samples/hello
-
 ```
 run:
 ```
@@ -55,4 +54,4 @@ https://git.sr.ht/~sircmpwn/scdoc
 
 https://git.sr.ht/~sircmpwn/harec
 
-git clone https://git.sr.ht/~sircmpwn/hare
+https://git.sr.ht/~sircmpwn/hare
